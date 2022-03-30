@@ -1,3 +1,8 @@
+'''
+Written by: Stuart Anderson
+Copyright: Tobu Pengin, LLC. 2022
+'''
+
 import os
 import requests
 import lxml.html
